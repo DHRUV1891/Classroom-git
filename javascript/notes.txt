@@ -1,0 +1,9 @@
+Everything in Javascript happens in the execution context
+There are two components in the execution context 
+1- Memory components or variable environment
+2- Code component or Thread of execution 
+
+Javascript is a synchronous single threaded language.
+------------------------------------------------------------------------------------------------
+
+
