@@ -2,4 +2,6 @@ Saving the history of projects.
 100 people are contributing to one project folder or file.
 Git helps to do that. 
 It is a version control system.
+Git init - initialised a git repo in the project and now the status will be untraced but once it is added ot will be
+staged to commit and ready to be saved in the history.
 
