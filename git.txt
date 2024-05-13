@@ -1,0 +1,5 @@
+Saving the history of projects.
+100 people are contributing to one project folder or file.
+Git helps to do that. 
+It is a version control system.
+
