@@ -1,9 +1,41 @@
+Javascript is a synchronous single threaded  programming language.
+The JavaScript engine is simply a computer program that interprets JavaScript code.
+The engine is responsible for executing the code.
+Every major browser has a JavaScript engine that executes JavaScript code.
+So we can use Chrome browser to execute JavaScript code
+
+ES6 - Echma Script - Modern JavaScript
+
+
+------------------------------------------------------------------------------------------
+Console.log is a built-in function that allows you to output messages or values to the console.
 Everything in Javascript happens in the execution context
 There are two components in the execution context 
 1- Memory components or variable environment
 2- Code component or Thread of execution 
-
-Javascript is a synchronous single threaded language.
 ------------------------------------------------------------------------------------------------
+VARIABLES
+these are containers for data that has some Memory location
+Dynamically typed language 
+[let , const , var] keywords
+only $ and underscore is allows for variable name 
+In 2015 - new JavaScript features
+var is not used due to re declaration property
+variables followed by let keyword are not redeclared
+
+var has a global scope
+but let and const has block scope
+
+----------------------------------------------------------------
+Data types in JavaScript
+Primitive and Non primitive
+7 primitive types are there - number , string , boolean , undefined , null , Symbol , BigInt
+
+Non primitive types are objects - Arrays 
+It is a collection of values 
+
+
+
+
 
 
